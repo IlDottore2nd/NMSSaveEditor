@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.21.0 - Update (06 June 2026)
+
+- Updated name mappings for NMS 6.4 (The Swarm).
+- Added new items / rewards
+
 ## 1.20.0 - Update (04 March 2026)
 
 - Updated name mappings for NMS 6.2 (Remnant).
